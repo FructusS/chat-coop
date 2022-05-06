@@ -1,0 +1,16 @@
+C:\Users\PC\source\repos\mobile app on signalr\mobile app on signalr\mobile app on signalr\bin\Debug\netstandard2.0\mobile app on signalr.deps.json
+C:\Users\PC\source\repos\mobile app on signalr\mobile app on signalr\mobile app on signalr\bin\Debug\netstandard2.0\mobile app on signalr.dll
+C:\Users\PC\source\repos\mobile app on signalr\mobile app on signalr\mobile app on signalr\bin\Debug\netstandard2.0\mobile app on signalr.pdb
+C:\Users\PC\source\repos\mobile app on signalr\mobile app on signalr\mobile app on signalr\obj\Debug\netstandard2.0\mobile app on signalr.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\mobile app on signalr\mobile app on signalr\mobile app on signalr\obj\Debug\netstandard2.0\mobile app on signalr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\mobile app on signalr\mobile app on signalr\mobile app on signalr\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\PC\source\repos\mobile app on signalr\mobile app on signalr\mobile app on signalr\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\PC\source\repos\mobile app on signalr\mobile app on signalr\mobile app on signalr\obj\Debug\netstandard2.0\mobile app on signalr.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\mobile app on signalr\mobile app on signalr\mobile app on signalr\obj\Debug\netstandard2.0\mobile app on signalr.AssemblyInfo.cs
+C:\Users\PC\source\repos\mobile app on signalr\mobile app on signalr\mobile app on signalr\obj\Debug\netstandard2.0\mobile app on signalr.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\mobile app on signalr\mobile app on signalr\mobile app on signalr\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\PC\source\repos\mobile app on signalr\mobile app on signalr\mobile app on signalr\obj\Debug\netstandard2.0\mobile app on signalr.dll
+C:\Users\PC\source\repos\mobile app on signalr\mobile app on signalr\mobile app on signalr\obj\Debug\netstandard2.0\refint\mobile app on signalr.dll
+C:\Users\PC\source\repos\mobile app on signalr\mobile app on signalr\mobile app on signalr\obj\Debug\netstandard2.0\mobile app on signalr.pdb
+C:\Users\PC\source\repos\mobile app on signalr\mobile app on signalr\mobile app on signalr\obj\Debug\netstandard2.0\ref\mobile app on signalr.dll
+C:\Users\PC\source\repos\mobile app on signalr\mobile app on signalr\mobile app on signalr\obj\Debug\netstandard2.0\WelcomePage.xaml.g.cs

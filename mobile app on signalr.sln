@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mobile app on signalr.Android", "mobile app on signalr\mobile app on signalr.Android\mobile app on signalr.Android.csproj", "{98D959C7-B939-4FCB-8D9F-748D1A8D72BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mobile app on signalr", "mobile app on signalr\mobile app on signalr\mobile app on signalr.csproj", "{D704A96B-A310-4582-96F5-589D4176E636}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98D959C7-B939-4FCB-8D9F-748D1A8D72BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98D959C7-B939-4FCB-8D9F-748D1A8D72BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98D959C7-B939-4FCB-8D9F-748D1A8D72BC}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{98D959C7-B939-4FCB-8D9F-748D1A8D72BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98D959C7-B939-4FCB-8D9F-748D1A8D72BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98D959C7-B939-4FCB-8D9F-748D1A8D72BC}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{D704A96B-A310-4582-96F5-589D4176E636}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D704A96B-A310-4582-96F5-589D4176E636}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D704A96B-A310-4582-96F5-589D4176E636}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D704A96B-A310-4582-96F5-589D4176E636}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D704A96B-A310-4582-96F5-589D4176E636}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D704A96B-A310-4582-96F5-589D4176E636}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDA94A2F-3E8E-4882-9365-2FFAC3003472}
+	EndGlobalSection
+EndGlobal

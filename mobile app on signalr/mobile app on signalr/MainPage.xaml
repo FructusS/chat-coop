@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="mobile_app_on_signalr.MainPage"
+             >
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="auto" />
+         
+        </Grid.RowDefinitions>
+        <StackLayout Padding="10"  Grid.Row="1">
+           
+            <Label FontSize="Small" Text="Сообщение" VerticalOptions="Center"/>
+            <Entry HorizontalOptions="FillAndExpand" x:Name="messagetext" Text="{Binding Message}"/>
+            <Button Text="Отправить" Clicked="Button_Clicked"  Command="{Binding SendMessageCommand}"/>
+        </StackLayout>
+
+        <ListView ItemsSource="{Binding Messages}" Grid.Row="0">
+            <ListView.ItemTemplate Height="70">
+                <DataTemplate>
+                    <ViewCell Height="70">
+                        <ViewCell.View Height="70">
+                            <StackLayout Orientation="Horizontal" HeightRequest="50">
+                                <Label Text="{Binding User}" FontAttributes="Bold" />
+                                <Label Text="{Binding Message}"   />
+                            </StackLayout>
+                        </ViewCell.View>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </Grid>
+   
+
+  
+
+
+</ContentPage>
